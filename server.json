@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.paperandbeyond23-gif/edgrapi-mcp",
-  "description": "SEC EDGAR filings as clean JSON: insider trades (Form 4), 8-K events, 13F holdings, and fundamentals for any US-listed ticker.",
+  "description": "SEC EDGAR as clean JSON: Form 4 insider trades, 8-Ks, 13F holdings, 13D/G >5% stakes, fundamentals.",
   "repository": {
     "url": "https://github.com/paperandbeyond23-gif/edgrapi-mcp",
     "source": "github"
